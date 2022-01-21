@@ -4,7 +4,7 @@ void main() {
             print(i.toString() + " - Berkualitas");
         } else if (i % 3 == 0) {
             print(i.toString() + " - I love coding");
-        } else if (i % 2 == 1) {
+        } else {
             print(i.toString() + " - Santai");
         }
     }
